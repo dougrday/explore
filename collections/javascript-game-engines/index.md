@@ -24,6 +24,7 @@ items:
  - replit/kaboom
  - straker/kontra
  - playcanvas/engine
+ - excaliburjs/Excalibur
 display_name: JavaScript Game Engines
 created_by: leereilly
 ---
